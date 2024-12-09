@@ -1,0 +1,10 @@
+beautifulsoup4
+scrapy
+selenium
+pandas
+matplotlib
+seaborn
+requests
+fake-useragent
+numpy
+scikit-learn
